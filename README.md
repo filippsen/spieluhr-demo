@@ -1,12 +1,17 @@
 spieluhr-demo
 =============
 
+What
+----
+
 It started with a simple question: 
 *"What can you do with 100KB (self-contained, no streaming) and Unity (web) engine?"*
 
 Spieluhr is a small psychedelic demo experience, written in 2011, using Unity3D 3.0. It was designed specifically for 
 the web player.
 
+How
+----
 _Trivia: This demo was programmed on a Sunday from ~3AM-9AM, powered by Hershey's chocolate bar and a bottle of pepsi._
 
 At first it relied specifically on d3d9 and ps3.0 for smaller shader code path. I worked around that and at the end it supported gl code as well.
@@ -27,10 +32,13 @@ Bullet points at the time:
 
 The main shader code was based on perlin noise from the Unity Community and the Standard Image Effects.
 
+Binaries
+--------
+
 * Check the original web version: http://filippsen.github.io/spieluhr/spieluhr.html
 
 The has been converted to Unity 4.2 and released into public domain.
 The following releases were built with Unity 4.2 Pro Trial:
-* Download Windows version:
-* Download Linux version:
-* Download Mac version: 
+* Download Windows version: https://github.com/filippsen/spieluhr-demo/releases/download/1.0/spieluhr-demo-win.zip
+* Download Linux version: https://github.com/filippsen/spieluhr-demo/releases/download/1.0-linux/spieluhr-demo-linux.zip
+* Download Mac version: https://github.com/filippsen/spieluhr-demo/releases/download/1.0-mac/spieluhr-demo-mac.zip
