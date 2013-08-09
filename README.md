@@ -28,6 +28,10 @@ Bullet points at the time:
 The main shader code was based on perlin noise from the Unity Community and the Standard Image Effects.
 
 * Run web version: http://
+
+
+The has been converted to Unity 4.2 and released into public domain.
+he following releases were built with Unity 4.2 Pro Trial:
 * Download Windows version:
 * Download Linux version:
 * Download Mac version: 
