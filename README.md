@@ -10,6 +10,8 @@ It started with a simple question:
 Spieluhr is a small psychedelic demo experience, written in 2011, using Unity3D 3.0. It was designed specifically for 
 the web player.
 
+![Screenshot 1](/ss_1.png "Screenshot 1")
+
 How
 ----
 _Trivia: This demo was programmed on a Sunday from ~3AM-9AM, powered by Hershey's chocolate bar and a bottle of pepsi._
