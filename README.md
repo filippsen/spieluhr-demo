@@ -12,6 +12,8 @@ the web player.
 
 ![Screenshot 1](/ss_1.png "Screenshot 1")
 
+The project has been converted to Unity 4.
+
 How
 ----
 _Trivia: This demo was programmed on a Sunday from ~3AM-9AM, powered by Hershey's chocolate bar and a bottle of pepsi._
@@ -40,10 +42,6 @@ Downloads
 * Check out the original web version: http://filippsen.github.io/spieluhr/spieluhr.html
 * Download the original web version (102KB): https://github.com/filippsen/spieluhr-demo/releases/download/original-web/spieluhr-web.zip
 
-The project has been converted to Unity 4.
-* Download Windows version (7.5MB): 
-* Download Linux version (17.5MB): 
-* Download Mac version (20.7MB): 
 
 License
 -------
