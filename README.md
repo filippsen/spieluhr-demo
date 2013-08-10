@@ -12,7 +12,6 @@ the web player.
 
 ![Screenshot 1](/ss_1.png "Screenshot 1")
 
-The project has been converted to Unity 4.
 
 How
 ----
@@ -35,6 +34,12 @@ Bullet points at the time:
 
 
 The main shader code was based on perlin noise from the Unity Community and the Standard Image Effects.
+
+
+Build
+----
+The project has been converted to Unity 4.2. Unity Pro is required.
+
 
 Downloads
 --------
