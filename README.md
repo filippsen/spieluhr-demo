@@ -35,12 +35,13 @@ The main shader code was based on perlin noise from the Unity Community and the 
 Downloads
 --------
 
-* Check the original web version: http://filippsen.github.io/spieluhr/spieluhr.html
+* Check out the original web version: http://filippsen.github.io/spieluhr/spieluhr.html
+* Download the original web version (102KB): https://github.com/filippsen/spieluhr-demo/releases/download/original-web/spieluhr-web.zip
 
 The project has been converted to Unity 4. The following releases were built with Unity 4.2 Pro Trial:
-* Download Windows version: https://github.com/filippsen/spieluhr-demo/releases/download/1.0/spieluhr-demo-win.zip
-* Download Linux version: https://github.com/filippsen/spieluhr-demo/releases/download/1.0-linux/spieluhr-demo-linux.zip
-* Download Mac version: https://github.com/filippsen/spieluhr-demo/releases/download/1.0-mac/spieluhr-demo-mac.zip
+* Download Windows version (7.5MB): https://github.com/filippsen/spieluhr-demo/releases/download/1.0/spieluhr-demo-win.zip
+* Download Linux version (17.5MB): https://github.com/filippsen/spieluhr-demo/releases/download/1.0-linux/spieluhr-demo-linux.zip
+* Download Mac version (20.7MB): https://github.com/filippsen/spieluhr-demo/releases/download/1.0-mac/spieluhr-demo-mac.zip
 
 License
 -------
