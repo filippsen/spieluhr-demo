@@ -38,7 +38,7 @@ The main shader code was based on perlin noise from the Unity Community and the 
 
 Build
 ----
-The project has been converted to Unity 4.2. Unity Pro is required.
+The project has been converted to Unity 4.2. Unity Pro is required for render-to-texture post-processing effects.
 
 
 Downloads
